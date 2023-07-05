@@ -1,0 +1,26 @@
+.Hover01:hover{
+    color: blueviolet;
+}
+
+.border01{
+    border-bottom: 3px solid #0d6efd;
+}
+.test{
+    width: 100vw;
+    height: 20vh;
+}
+.test1{
+    width: 2em;
+}
+.test2{
+    background-image: url(/images/img2.jpg);
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.35);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100vw;
+}
+
